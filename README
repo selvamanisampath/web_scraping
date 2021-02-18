@@ -1,0 +1,12 @@
+# Getting Started
+
+
+# run $ bundle install (# gem install bundler)
+# create a database in mysql
+# Update db credentials in the script
+# Configure the website and url you wanted to scrape in CONSTANTS
+# Read html element using css selector using Nokokiri gem on DOM elements which you wanted to parse
+
+Note : bundler gem has to be installed to make the first command to work
+
+# Tested with Ruby 3.0 version
